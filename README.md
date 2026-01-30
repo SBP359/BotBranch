@@ -1,4 +1,6 @@
-# 🌿 BotBranch
+<div align="center">
+    <img src="https://github.com/SBP359/SBP359/blob/d838082b466801261eb50bb453deaf27b7b4f9cc/assets/botbranch/botbranch.gif" alt="Logo" width="450" height="300">
+</div>
 
 > **Seamlessly transfer conversations between ChatGPT, Gemini, and DeepSeek with full context preservation**
 
