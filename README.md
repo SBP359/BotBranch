@@ -239,6 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
+    
 ## Support
 
 If you find this extension useful, you can support its development on Ko-fi:
