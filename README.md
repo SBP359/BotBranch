@@ -239,6 +239,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
+## Support
+
+If you find this extension useful, you can support its development on Ko-fi:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/sbp359)
 
 **Made with ❤️ by [SBP359](https://github.com/SBP359)**
 
